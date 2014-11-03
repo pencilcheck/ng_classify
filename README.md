@@ -1,8 +1,8 @@
-= NgClassify
+# NgClassify
 
 This project rocks and uses MIT-LICENSE.
 
-= Usage
+## Usage
 
 Add `gem ng_classify` to your Gemfile  
 Run `bundle install`  
@@ -10,7 +10,7 @@ Create a file with extension `.coffee.ng-classify`
 Done!  
 
 
-= Configuration
+## Configuration
 
 You can also configure the naming convention of the components as well.
 
