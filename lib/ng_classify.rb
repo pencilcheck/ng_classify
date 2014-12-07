@@ -1,4 +1,5 @@
 require 'ng_classify/version'
+require 'commonjs'
 require 'rails'
 
 module NgClassify
