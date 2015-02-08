@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = NgClassify::VERSION
   s.authors     = ["Penn Su"]
   s.email       = ["pennsu@gmail.com"]
-  s.homepage    = ""
+  s.homepage    = "https://github.com/pencilcheck/ng_classify"
   s.summary     = "A preprocessor for the ng-classify npm module"
   s.description = "Convert CoffeeScript classes to AngularJS modules
 Write less JavaScript. Write less CoffeeScript. Write less Angular."
