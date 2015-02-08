@@ -51,7 +51,7 @@ module NgClassify
         value: NgClassify.value
       }
       env = CommonJS::Environment.new(V8::Context.new, :path => File.expand_path(File.join('..'), __FILE__))
-      result = env.require('ng-classify-commonjs.js').call(data, options)
+      env.require('ng-classify-commonjs.js').call(data, options)
     end
   end
 
